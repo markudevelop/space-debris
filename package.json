@@ -8,8 +8,14 @@
     "start": "next start"
   },
   "dependencies": {
+    "classnames": "^2.3.1",
     "next": "11.1.2",
     "react": "17.0.2",
-    "react-dom": "17.0.2"
+    "react-dom": "17.0.2",
+    "swr": "^1.0.1"
+  },
+  "devDependencies": {
+    "@types/react": "^17.0.24",
+    "typescript": "^4.4.3"
   }
 }
